@@ -329,8 +329,7 @@ If you like this project, please give it a ⭐ on GitHub!
 
 ---
 
-*Made with ❤️ and ☕ by Er. Sangam Krishna*
-
+*Made with ❤️ and ☕ by [Er. Sangam Krishna](https://github.com/SnakeEye-sudo)*
 **© 2025 Sangam Krishna. All Rights Reserved.**
 
 </div>
